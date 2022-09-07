@@ -10,7 +10,7 @@ I'm particularly passionate about audio and music :sound: :musical_note: these a
 - Machine learning and deep learning for audio application, especialy for **audio synthesis**, **music information retrival** and **alghorithmic composition** as I did in the bachelor degree IT engineering thesis hosted by Antonio Rodà and entitled 
 *Elaboration of a Lead Sheet Dataset for Computational Creativity Systems*. 
 - Playing guitar 🎸  sing  :microphone: and compose music :musical_score: .
-- Reading :books:. 
+- Reading and poetry :books:. 
 - Doing sports :running_man:.
 <!--
 **EllDy96/EllDy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
