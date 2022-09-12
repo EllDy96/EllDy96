@@ -4,7 +4,7 @@ My name is Davide Lionetti from :it: and I'm currently pursuing my M. Sc. in Mus
 
 I'm particularly passionate about audio and music :sound: :musical_note: these are my main interests that take life in my projects:
 
-- **Plugin development** merged with **Machine learning** and **Deep learning**, especially vst instrument creation as I did in two of my project the [Handmonizer, an artist oriented vocal harmonizer](https://github.com/EllDy96/Handmonizer) and the [handy fm synthesizer](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework3).
+- **Plugin development** merged with **Machine learning** and **Deep learning**, especially vst instrument creation linked with **Music interaction design** as I did in two of my project the [Handmonizer, an artist oriented vocal harmonizer](https://github.com/EllDy96/Handmonizer) and the [handy fm synthesizer](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework3).
 - **Creative programming** for New media art development focused on the user interaction like the artistic VR experience project [3Dreams](https://github.com/EllDy96/3Dreams).
 - **Computer Music** software development as the [Synesthetic](https://github.com/EllDy96/Synesthetic) or the [Flanger vst plugin implemented in Juce](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework2).
 - Machine learning and deep learning for audio application, especialy for **audio synthesis**, **music information retrival** and **alghorithmic composition** as I did in the bachelor degree IT engineering thesis hosted by Antonio Rodà and entitled 
