@@ -11,7 +11,7 @@ I'm particularly passionate about audio and music :sound: :musical_note: these a
 *Elaboration of a Lead Sheet Dataset for Computational Creativity Systems*. 
 - Playing guitar 🎸  sing  :microphone: and compose music :musical_score: .
 - Reading and poetry :books:. 
-- Doing sports :running_man:.
+- Doing sports as martial arts and Chalistenics :running_man:.
 <!--
 **EllDy96/EllDy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
