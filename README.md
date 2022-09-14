@@ -1,7 +1,20 @@
 ### Hi there 👋
 
 My name is Davide Lionetti from :it: and I'm currently pursuing my M. Sc. in Music and Acoustic Engineering at the Polytechnic University of Milan. 
-
+I am a life-long, passionate musician with the aim to merge my digital signal processing
+studies with my creative side. I am resilient, constant, patient, sunny, and positive. I love the
+collaboration in developing  innovative and cutting-edge audio applications. I am looking for
+an intership to write my thesis about.  Specifically in Music interaction design and human-machine
+interaction,
+which
+I
+did
+in
+one
+of
+my
+projects
+called [Handmonizer](https://github.com/EllDy96/Handmonizer).
 I'm particularly passionate about audio and music :sound: :musical_note: these are my main interests that take life in my projects:
 
 - **Plugin development** merged with **Machine learning** and **Deep learning**, especially vst development linked with **Music interaction design** as I did in two of my project the [Handmonizer, an artist oriented vocal harmonizer](https://github.com/EllDy96/Handmonizer) and the [handy fm synthesizer](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework3).
@@ -13,7 +26,7 @@ I'm particularly passionate about audio and music :sound: :musical_note: these a
 - Reading and poetry :books:. 
 - Doing sports as martial arts and Chalistenics :running_man:.
 ## Let's keep in touch
-You can find me on [LindedIn](https://www.linkedin.com/in/davide-lionetti-896814194/), write to me for every proposal or info. 
+You can find me on [LindedIn](https://www.linkedin.com/in/davide-lionetti-896814194/), write to me for any proposal or info. 
 <!--
 **EllDy96/EllDy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
