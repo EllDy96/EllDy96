@@ -12,6 +12,8 @@ I'm particularly passionate about audio and music :sound: :musical_note: these a
 - Playing guitar 🎸  sing  :microphone: and compose music :musical_score: .
 - Reading and poetry :books:. 
 - Doing sports as martial arts and Chalistenics :running_man:.
+## Let's keep in touch
+You can find me on [LindedIn](https://www.linkedin.com/in/davide-lionetti-896814194/), write to me for every proposals or info. 
 <!--
 **EllDy96/EllDy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
