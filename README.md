@@ -2,20 +2,13 @@
 
 My name is Davide Lionetti from :it: and I'm currently pursuing my M. Sc. in Music and Acoustic Engineering at the Polytechnic University of Milan. 
 I am a life-long, passionate musician with the aim to merge my digital signal processing
-studies with my creative side. I am resilient, constant, patient, sunny, and positive. I love the
-collaboration in developing  innovative and cutting-edge audio applications. I am looking for
-an intership to write my thesis about.  Specifically in Music interaction design and human-machine
-interaction,
-which
-I
-did
-in
-one
-of
-my
-projects
-called [Handmonizer](https://github.com/EllDy96/Handmonizer).
-I'm particularly passionate about audio and music :sound: :musical_note: these are my main interests that take life in my projects:
+studies with my creative side. I am resilient, constant, patient, sunny, and positive. I love the collaboration in developing  innovative and cutting-edge audioapplications.I am looking for an end of studies internship to develop a project that I can use for my final dissertation. Specifically in two field in 
+1. **Music interaction design** and human-machine
+interaction, which I did in one of my projects called [Handmonizer](https://github.com/EllDy96/Handmonizer).
+2. **Music information retrival** based on deep learning, for which I have already
+developed a project called [3Dreams](https://github.com/EllDy96/3Dreams).
+
+I'm particularly passionate about audio and music :sound: :musical_note: these are my main interests that come to life in my projects:
 
 - **Plugin development** merged with **Machine learning** and **Deep learning**, especially vst development linked with **Music interaction design** as I did in two of my project the [Handmonizer, an artist oriented vocal harmonizer](https://github.com/EllDy96/Handmonizer) and the [handy fm synthesizer](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework3).
 - **Creative programming merged with Deep learning**  for New media art development focused on the user interaction like the artistic VR experience [3Dreams](https://github.com/EllDy96/3Dreams) based on a Music emotion recognition network to track the emotional contour of a song.
