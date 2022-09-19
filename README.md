@@ -2,7 +2,7 @@
 
 My name is Davide Lionetti from :it: and I'm currently pursuing my M. Sc. in Music and Acoustic Engineering at the Polytechnic University of Milan. 
 I am a life-long, passionate musician with the aim to merge my digital signal processing
-studies with my creative side. I am resilient, constant, patient, sunny, and positive. I love the collaboration in developing  innovative and cutting-edge audioapplications.I am looking for an end of studies internship to develop a project that I can use for my final dissertation. Specifically in two field in 
+studies with my creative side. I am resilient, constant, patient, sunny, and positive. I love the collaboration in developing  innovative and cutting-edge audioapplications.I am looking for an end of studies internship to develop a project that I can use for my final dissertation. Specifically in two field:
 1. **Music interaction design** and human-machine
 interaction, which I did in one of my projects called [Handmonizer](https://github.com/EllDy96/Handmonizer).
 2. **Music information retrival** based on deep learning, for which I have already
