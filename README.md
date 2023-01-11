@@ -14,7 +14,7 @@ I'm particularly passionate about audio and music :sound: :musical_note: these a
 - **Creative programming merged with Deep learning**  for New media art development focused on the user interaction like the artistic VR experience [3Dreams](https://github.com/EllDy96/3Dreams) based on a Music emotion recognition network to track the emotional contour of a song.
 - **Computer Music** software development as the [Synesthetic](https://github.com/EllDy96/Synesthetic) or the [Flanger vst plugin implemented in Juce](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework2).
 - Machine learning and deep learning for audio application, especialy for **audio synthesis**, **music information retrival** and **alghorithmic composition** as I did in the bachelor degree IT engineering thesis hosted by Antonio Rodà and entitled 
-*Elaboration of a Lead Sheet Dataset for Computational Creativity Systems*. 
+[*Elaboration of a Lead Sheet Dataset for Computational Creativity Systems*](https://github.com/EllDy96/AlgorithmicComposer). 
 - Playing guitar 🎸  sing  :microphone: and compose music :musical_score: .
 - Reading and poetry :books:. 
 - Doing sports as martial arts and Chalistenics :running_man:.
