@@ -10,7 +10,7 @@ My main interest span these two fields:
 1. **Music interaction design** and human-machine
 interaction, which I did in one of my projects called [Handmonizer](https://github.com/EllDy96/Handmonizer).
 2. **Music information retrieval** based on deep learning, for which I have already
-developed a project called [3Dreams](https://github.com/EllDy96/3Dreams).
+developed a project called [3Dreams](https://github.com/EllDy96/3Dreams). You can watch a [short video demostration](https://drive.google.com/file/d/1UsGnPmJvErldBg71jrULoDFW9Uel0gET/view?usp=sharing) of the last workshop in which the artist tried to merge the Handmonizer with her current setup, or read the full [scientific paper](https://github.com/EllDy96/Handmonizer/blob/main/Report/handMonizer_paper_IS2_2023.pdf) **presented at the 4th Symposium of the Internet Of Sound in Pisa**. 
 
 I'm particularly passionate about audio and music :sound: :musical_note: these are my main interests that come to life in my projects:
 
