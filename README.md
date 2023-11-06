@@ -7,7 +7,7 @@ studies with my musician side.
 I am resilient, constant, patient, cheerful, and positive. I love the collaboration in developing innovative and cutting-edge audio applications. 
 
 My main interest span these two fields:
-1. **Human-computer Interaction applyed to Music tecnology**: Have a look of my project called [Handmonizer](https://github.com/EllDy96/Handmonizer) where we designed, for the jazz Singer Maria pia De Vito, an artistic oriented musical instrument driven by  an ANN.  You can watch a [short video demostration](https://drive.google.com/file/d/1UsGnPmJvErldBg71jrULoDFW9Uel0gET/view?usp=sharing) of the last workshop in which the artist tried to merge the Handmonizer with her current setup, or read the full [scientific paper](https://github.com/EllDy96/Handmonizer/blob/main/Report/handMonizer_paper_IS2_2023.pdf) **presented at the 4th Symposium of the Internet Of Sound in Pisa**. 
+1. **Human-computer Interaction applyed to Music tecnology**: Have a look of my project called [Handmonizer](https://github.com/EllDy96/Handmonizer) where we designed, for the jazz singer Maria Pia De Vito, an artistic-oriented musical instrument driven by an ANN.  You can watch a [short video demostration](https://drive.google.com/file/d/1UsGnPmJvErldBg71jrULoDFW9Uel0gET/view?usp=sharing) of the last workshop in which the artist tried to merge the Handmonizer with her current setup, or read the full [scientific paper](https://github.com/EllDy96/Handmonizer/blob/main/Report/handMonizer_paper_IS2_2023.pdf) **presented at the 4th Symposium of the Internet Of Sound in Pisa**. 
 2. **Music information retrieval** based on deep learning, for which I have already
 developed a project called [3Dreams](https://github.com/EllDy96/3Dreams).
 
