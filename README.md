@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Davide Lionetti from :it: and I have pursued my M. Sc. in Music and Acoustic Engineering at the Polytechnic University of Milan with a final grade of 107/110. Please have a look at my final Thesis where I developed a strategy to augment a guitarist with wearable sensors: [Final Thesis](https://github.com/EllDy96/Augmented-Guitar-Pedalboard)
+My name is Davide Lionetti from Italy and I have pursued my M. Sc. in Music and Acoustic Engineering at the Polytechnic University of Milan with a final grade of 107/110. Please have a look at my final Thesis where I developed a strategy to augment a guitarist with wearable sensors: [Final Thesis](https://github.com/EllDy96/Augmented-Guitar-Pedalboard)
 
 I am a lifelong, passionate musician aiming to merge my engineering
 studies with my musician side. I am resilient, constant, patient, cheerful, and positive. I love the collaboration in developing innovative and cutting-edge audio applications. 
