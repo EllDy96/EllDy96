@@ -1,5 +1,6 @@
 ### Hello there 👋
 Davide Lionetti is an audio-software engineer, musician, and PhD candidate at IPEM, Ghent University, specializing in the intersection of musicology and Human-Computer Interaction. 
+
 With a background in IT Engineering (B.Sc. at UniPD) and Music Engineering (M.Sc. at PoliMi), he has expertise in digital signal processing, deep learning, and creative programming for augmented musical instruments.
 
 He is passionate about integrating Extended Reality and computational creativity into immersive applications. Skilled in programming languages like Python, PureData, and SuperCollider, Davide leverages his multidisciplinary musical knowledge to advance smart musical instruments and music interaction design.
