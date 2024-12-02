@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 Davide Lionetti is an audio-software engineer, musician, and PhD candidate at IPEM, Ghent University, specializing in the intersection of musicology and Human-Computer Interaction. 
 With a background in IT Engineering (B.Sc. at UniPD) and Music Engineering (M.Sc. at PoliMi), he has expertise in digital signal processing, deep learning, and creative programming for augmented musical instruments.
 
@@ -22,7 +22,7 @@ These are his other interests:
 - Reading and poetry :books:. 
 - Doing sports such as martial arts and Chalistenics :running_man:.
 ## Let's keep in touch
-You can find me on [LindedIn](https://www.linkedin.com/in/davide-lionetti-896814194/), or download my [Resume] (https://github.com/EllDy96/EllDy96/blob/main/DavideLionettiResume.pdf), write to me for any proposal or info. 
+You can find me on [LindedIn](https://www.linkedin.com/in/davide-lionetti-896814194/), or download my [Resume](https://github.com/EllDy96/EllDy96/blob/main/DavideLionettiResume.pdf), write to me for any proposal or info. 
 <!--
 **EllDy96/EllDy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
