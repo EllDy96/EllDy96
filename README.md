@@ -12,7 +12,7 @@ His main interests spans these two fields:
 2. **Deep learning applied to music technologies**, for which I have already
 developed some projects, such as: [The Augmented Guitarist](https://github.com/EllDy96/Augmented-Guitar-Pedalboard) and [3Dreams: an immersive VR experience](https://github.com/EllDy96/3Dreams).
 
-These are his other projects:
+other interests:
 
 - **Plugin development** merged with **Machine learning** and **Deep learning**, especially VST development linked with **Music interaction design** as I did in two of my projects the [Handmonizer, an artist-oriented vocal harmonizer](https://github.com/EllDy96/Handmonizer) and the [handy fm synthesizer](https://github.com/EllDy96/ComputerMusicProjects/tree/Homework3).
 - **Creative programming merged with Deep learning**  for New media art development focused on the user interaction like the artistic VR experience [3Dreams](https://github.com/EllDy96/3Dreams) based on a Music emotion recognition network to track the emotional contour of a song.
