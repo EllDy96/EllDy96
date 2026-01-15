@@ -8,9 +8,8 @@ He is passionate about integrating immersive audio and computational creativity 
 Davide has developed two Digital Musical Instrument (DMI): the [Handmonizer](https://github.com/EllDy96/Handmonizer) (presented at IS2-2023) and the  [Muscle Guided Guitar Pedalboard](https://github.com/EllDy96/Augmented-Guitar-Pedalboard)(featured at NIME 2024). The latest, explores the application of deep learning-based sEMG analysis to enhance audio effects.
 
 His main interests spans these two fields:
-1. **Human-computer Interaction applied to Music technology**: [Handmonizer](https://github.com/EllDy96/Handmonizer), **presented at the 4th Symposium of the Internet Of Sound in Pisa**. We designed, for the jazz singer Maria Pia De Vito, an artistic-oriented musical instrument driven by an ANN.  You can watch a [short video demonstration](https://drive.google.com/file/d/1UsGnPmJvErldBg71jrULoDFW9Uel0gET/view?usp=sharing) of the last workshop in which the artist tried to merge the Handmonizer with her current setup or read the full [scientific paper](https://github.com/EllDy96/Handmonizer/blob/main/Report/handMonizer_paper_IS2_2023.pdf). 
-2. **Deep learning applied to music technologies**, for which I have already
-developed some projects, such as: [The Augmented Guitarist](https://github.com/EllDy96/Augmented-Guitar-Pedalboard) and [3Dreams: an immersive VR experience](https://github.com/EllDy96/3Dreams).
+1. **Human-computer Interaction applied to Music technology**: applied in his project the [Handmonizer](https://github.com/EllDy96/Handmonizer). It presents a DMI designed for the jazz singer Maria Pia De Vito, an artistic-oriented voice harmonizer driven by her hand thorough an ANN.  You can watch a [short video demonstration](https://drive.google.com/file/d/1UsGnPmJvErldBg71jrULoDFW9Uel0gET/view?usp=sharing) in which the artist tried to merge the Handmonizer with her current setup or read the full [scientific paper](https://github.com/EllDy96/Handmonizer/blob/main/Report/handMonizer_paper_IS2_2023.pdf). 
+2. **Deep learning applied to music technologies**: Explored during the Master thesis [The Augmented Guitarist](https://github.com/EllDy96/Augmented-Guitar-Pedalboard) and other projects such as the [3Dreams: an immersive VR experience](https://github.com/EllDy96/3Dreams).
 
 other interests:
 
