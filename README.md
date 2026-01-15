@@ -3,7 +3,7 @@ Davide Lionetti is an audio-software engineer, musician, and PhD candidate at IP
 
 With a background in IT Engineering (B.Sc. at UniPD) and Music Engineering (M.Sc. at PoliMi), he has expertise in digital signal processing, deep learning, and creative programming for augmented musical instruments.
 
-He is passionate about integrating Extended Reality and computational creativity into immersive applications. Skilled in programming languages like Python, PureData, and SuperCollider, Davide leverages his multidisciplinary musical knowledge to advance smart musical instruments and music interaction design.
+He is passionate about integrating immersive audio and computational creativity into XR applications. Skilled in programming languages like Python, PureData, and SuperCollider, Davide leverages his multidisciplinary musical knowledge to advance smart musical instruments and music interaction design.
 
 Davide has developed cutting-edge Digital Musical Instrument (DMI) such as the [Handmonizer](https://github.com/EllDy96/Handmonizer) (presented at IS2-2023) and the  [Muscle Guided Guitar Pedalboard](https://github.com/EllDy96/Augmented-Guitar-Pedalboard)(featured at NIME 2024). The latest, explores the application of deep learning-based sEMG analysis to enhance audio effects.
 
